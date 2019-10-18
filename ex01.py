@@ -11,5 +11,8 @@ s = {"name":"김슬지","kor":100,"eng":80,"math":90}
 mycol.insert_one(s)
 print(s)
 
+dadange = "hello"
+print(dadange)
+
 
 
